@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Waitaya</h1>
 <h3 align="center">A passionate frontend developer from Thailand</h3>
 
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently learning **Mobile Application Development**
 
 - 💬 Ask me about **React, Vue and Next**
 
